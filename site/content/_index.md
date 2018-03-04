@@ -1,6 +1,6 @@
 ---
 title: merrybee
-subtitle: Washing badgers until they shine like diamonds
+subtitle: Varnishing badgers until they shine like diamonds
 image: /img/merrybeelogo.png
 blurb:
   heading: Badgers
